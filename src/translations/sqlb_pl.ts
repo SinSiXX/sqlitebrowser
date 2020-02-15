@@ -4207,6 +4207,11 @@ Czy na pewno zapisać bazę danych?</translation>
         <translation>Wybierz pliki tekstowe</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation>Projekt zapisano do pliku &apos;%1&apos;</translation>
@@ -4458,9 +4463,8 @@ Czy na pewno?</translation>
         <translation>Nie można wczytać rozszerzenia: %1</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
         <source>Could not open find resource file: %1</source>
-        <translation>Nie można znaleźć pliku zasobów: %1</translation>
+        <translation type="vanished">Nie można znaleźć pliku zasobów: %1</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

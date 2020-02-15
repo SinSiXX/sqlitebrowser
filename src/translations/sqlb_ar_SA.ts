@@ -4589,11 +4589,6 @@ If you answer no we will attempt to import the data in the SQL file to the curre
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../MainWindow.cpp" line="2383"/>
         <source>Choose a project file to open</source>
         <translation>اختر ملف مشروع لفتحه</translation>
@@ -4823,6 +4818,11 @@ Are you sure?</source>
     <message>
         <location filename="../MainWindow.cpp" line="1834"/>
         <source>Do you want to save the changes made to SQL tabs in the project file &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

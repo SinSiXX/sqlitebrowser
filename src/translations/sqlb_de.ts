@@ -4937,6 +4937,11 @@ Are you sure?</source>
 Sind Sie sich sicher?</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
@@ -5106,11 +5111,6 @@ Sind Sie sich sicher?</translation>
         <location filename="../MainWindow.cpp" line="2052"/>
         <source>Error loading extension: %1</source>
         <translation>Fehler beim Laden der Erweiterung: %1</translation>
-    </message>
-    <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

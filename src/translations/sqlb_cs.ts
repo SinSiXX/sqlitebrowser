@@ -4330,11 +4330,6 @@ If you answer no we will attempt to import the data in the SQL file to the curre
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../MainWindow.cpp" line="2383"/>
         <source>Choose a project file to open</source>
         <translation type="unfinished">Vybrat soubor projektu k otevření</translation>
@@ -4492,6 +4487,11 @@ Are you sure you want to save the database?</source>
         <location filename="../MainWindow.cpp" line="1176"/>
         <source>Setting PRAGMA values or vacuuming will commit your current transaction.
 Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

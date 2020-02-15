@@ -4598,11 +4598,6 @@ If you answer no we will attempt to import the data in the SQL file to the curre
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../MainWindow.cpp" line="2383"/>
         <source>Choose a project file to open</source>
         <translation>Выберите файл проекта для открытия</translation>
@@ -4810,6 +4805,11 @@ Are you sure you want to save the database?</source>
 Are you sure?</source>
         <translation>Установка значений PRAGMA или вакуумирования приведет к фиксации текущей транзакции.
 Уверены ли вы?</translation>
+    </message>
+    <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="3289"/>

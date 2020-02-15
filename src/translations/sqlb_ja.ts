@@ -3965,6 +3965,11 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2747"/>
         <source>Could not open project file for writing.
 Reason: %1</source>
@@ -4381,11 +4386,6 @@ Are you sure?</source>
         <location filename="../MainWindow.cpp" line="2052"/>
         <source>Error loading extension: %1</source>
         <translation>拡張の読み込みでエラー: %1</translation>
-    </message>
-    <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

@@ -5048,6 +5048,11 @@ Are you sure?</source>
 Êtes-vous sûr ?</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation>Projet enregistré dans le fichier &apos;%1&apos;</translation>
@@ -5219,9 +5224,8 @@ Are you sure?</source>
         <translation>Erreur lors du chargement de l&apos;extension %1</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
         <source>Could not open find resource file: %1</source>
-        <translation>Le fichier de ressources : %1 ne peut être ouvert</translation>
+        <translation type="vanished">Le fichier de ressources : %1 ne peut être ouvert</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

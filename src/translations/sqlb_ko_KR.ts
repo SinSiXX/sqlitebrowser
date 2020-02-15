@@ -4685,11 +4685,6 @@ If you answer no we will attempt to import the data in the SQL file to the curre
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../MainWindow.cpp" line="2383"/>
         <source>Choose a project file to open</source>
         <translation type="unfinished"></translation>
@@ -4850,6 +4845,11 @@ Are you sure you want to save the database?</source>
         <source>Setting PRAGMA values or vacuuming will commit your current transaction.
 Are you sure?</source>
         <translation>PRAGMA 값을 지정하지 않으면 현재 트랜잭션에 DB파일 축소작업(Vacuum)이 커밋됩니다. 진행할까요?</translation>
+    </message>
+    <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="3289"/>

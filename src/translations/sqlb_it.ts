@@ -4155,6 +4155,11 @@ Sei sicuro di voler salvare il database?</translation>
         <translation>Risultato: %2</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
@@ -4458,9 +4463,8 @@ Sei sicuro?</translation>
         <translation>Errore nel caricamento dell&apos;estensione: %1</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
         <source>Could not open find resource file: %1</source>
-        <translation>Non posso aprire il file di risorse: %1</translation>
+        <translation type="vanished">Non posso aprire il file di risorse: %1</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

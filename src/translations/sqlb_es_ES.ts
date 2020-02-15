@@ -4860,6 +4860,11 @@ Si responde no se intentarán importar los datos del archivo SQL en la base de d
         <translation>Modificar tabla</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="3289"/>
         <source>Rename Tab</source>
         <translation type="unfinished"></translation>
@@ -4911,11 +4916,6 @@ Si responde no se intentarán importar los datos del archivo SQL en la base de d
     <message>
         <source>Extensions(*.so *.dylib *.dll);;All files(*)</source>
         <translation type="vanished">Extensiones (*.so *.dylib *.dll);;Todos los archivos (*)</translation>
-    </message>
-    <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2383"/>

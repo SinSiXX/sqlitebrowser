@@ -4361,6 +4361,11 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
@@ -4515,11 +4520,6 @@ Are you sure?</source>
         <location filename="../MainWindow.cpp" line="2052"/>
         <source>Error loading extension: %1</source>
         <translation>載入擴充套件時出現錯誤: %1</translation>
-    </message>
-    <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
-        <source>Could not open find resource file: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2158"/>

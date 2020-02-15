@@ -5021,6 +5021,11 @@ Você tem certeza que quer salvar o banco de dados?</translation>
 --</translation>
     </message>
     <message>
+        <location filename="../MainWindow.cpp" line="2069"/>
+        <source>Could not find resource file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../MainWindow.cpp" line="2852"/>
         <source>Project saved to file &apos;%1&apos;</source>
         <translation>Projeto salvo no arquivo &apos;%1&apos;</translation>
@@ -5141,9 +5146,8 @@ Você tem certeza que quer salvar o banco de dados?</translation>
         <translation>Os comandos nessa aba ainda estão executando. Fechar a aba vai parar a execução. Isso pode deixar o banco de dados em um estado inconsistente. Você tem certeza de que deseja fechar a aba?</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="2069"/>
         <source>Could not open find resource file: %1</source>
-        <translation>Não pôde encontrar o arquivo de recursos: %1</translation>
+        <translation type="vanished">Não pôde encontrar o arquivo de recursos: %1</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="2383"/>
